@@ -2,9 +2,17 @@
 
 <h2>👨‍💻 CyberSecurity Projects Projects:</h2>
 
-- <b> [Active Directory HomeLab] (https://github.com/BSterlingMB/PS-project_JM)</b>
+- [Active Directory HomeLab] (https://github.com/BSterlingMB/PS-project_JM)
   - More Projects Coming Soon
 - <b>More Loading</b>
+
+<h2> Certifications </h2>
+
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V2F8LXJ2HKTU">[Google IT Support Proffesional]</a>
+- <a href="https://www.credly.com/badges/c61af824-fd0b-4d96-a916-956ecff6a6a0/public_url">[CompTIA A+]</a>
+- <a href="https://www.credly.com/badges/fd594108-598b-428d-b448-bd3638a7f3ea/public_url">[CompTIA Network+]</a>
+- <a href="https://www.credly.com/badges/ff4297d1-ba01-484f-a8e1-ee7ecf70c09b/public_url ">[CompTIA IT Operations Specialist]</a>
+
 <h2>📺 YouTube Videos</h2>
 
 - [Active Directory HomeLab] (vid coming soon)
