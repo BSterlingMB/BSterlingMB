@@ -5,7 +5,7 @@
 - <b> [Active Directory HomeLab] (https://github.com/BSterlingMB/PS-project_JM)</b>
   - More Projects Coming Soon
 - <b>More Loading</b>
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [Active Directory HomeLab] (vid coming soon)
 
