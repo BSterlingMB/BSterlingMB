@@ -1,4 +1,4 @@
-<h1>Greetings I'm Bobby!<br/><a href="https://github.com/BSterlingMB"> IT & </a> <a href="https://www.linkedin.com/in/bobby-sterling-ii-69038a13a/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCeXaCWF65esF7cEWL9VeJMA">YouTuber</a></h1>
+<h1>Greetings I'm Bobby!<br/><a href="https://github.com/BSterlingMB"> IT & </a> <a href="https://www.linkedin.com/in/bobby-sterling-ii-69038a13a/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCsWq0FpDeF7lyAXMsCBU3Xg">YouTuber</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects Projects:</h2>
 
@@ -22,7 +22,7 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/channel/UCeXaCWF65esF7cEWL9VeJMA
+[youtube]: https://www.youtube.com/channel/UCsWq0FpDeF7lyAXMsCBU3Xg
 [linkedin]: https://www.linkedin.com/in/bobby-sterling-ii-69038a13a/
 
 <!--
