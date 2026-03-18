@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   - More Projects Coming Soon
 - <b>More Loading</b>
 
