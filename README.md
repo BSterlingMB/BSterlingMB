@@ -1,6 +1,6 @@
 <h1>Greetings I'm Bobby!<br/><a href="https://github.com/BSterlingMB"> IT & </a> <a href="https://www.linkedin.com/in/bobby-sterling-ii-69038a13a/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCsWq0FpDeF7lyAXMsCBU3Xg">YouTuber</a></h1>
 
-<h2>👨‍💻 CyberSecurity Projects Projects:</h2>
+<h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   - More Projects Coming Soon
@@ -8,7 +8,7 @@
 
 <h2>📃 Certifications </h2>
 
-- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V2F8LXJ2HKTU">[Google IT Support Proffesional]</a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V2F8LXJ2HKTU">[Google IT Support Professional]</a>
 - <a href="https://www.credly.com/badges/c61af824-fd0b-4d96-a916-956ecff6a6a0/public_url">[CompTIA A+]</a>
 - <a href="https://www.credly.com/badges/fd594108-598b-428d-b448-bd3638a7f3ea/public_url">[CompTIA Network+]</a>
 - <a href="https://www.credly.com/badges/ff4297d1-ba01-484f-a8e1-ee7ecf70c09b/public_url ">[CompTIA IT Operations Specialist]</a>
